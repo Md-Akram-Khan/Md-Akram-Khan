@@ -136,9 +136,31 @@ Always learning, creating and striving to turn ideas into reality.
     </td>
     <td width="50%" valign="top">
       <h3>💊 <a href="https://github.com/Md-Akram-Khan/DrugScript">DrugScript</a></h3>
-      <p>Cross-platform Flutter mobile app built with a team of four.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <p>
+        <ul>
+        <li>Lets patients and doctors create digital prescriptions with diagnosis, medicines and optional images.</li>
+        <li>Shares prescriptions instantly by QR code, with full history of sent and received prescriptions.</li>
+        <li>Provides medicine search with detailed information, plus medication reminders through local notifications.</li>
+        <li>Includes a community chat room, medical report storage, and reviews for top doctors and clinics.</li>
+        <li>Offers early UI prototypes for medicine delivery and ambulance booking with Google Maps location picking.</li>
+        </ul>
+      </p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logo=lottiefiles&logoColor=white" />
+        <img src="https://img.shields.io/badge/fl__chart-1E88E5?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google%20Sign--In-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Places%20API-34A853?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/QR%20Codes-000000?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Local%20Notifications-FF6F00?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shared%20Preferences-607D8B?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
     </td>
   </tr>
   <tr>
