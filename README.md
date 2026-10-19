@@ -54,6 +54,8 @@ Always learning, creating and striving to turn ideas into reality.
           <li>Provides performance comparison charts and CSV report export.</li>
         </ul>
      </p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
       <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
@@ -61,8 +63,6 @@ Always learning, creating and striving to turn ideas into reality.
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Md-Akram-Khan/OOP-project">Electricity Billing System</a></h3>
       <p>Java Swing desktop app that follows the BERC slab tariff, reads meter photos to create bills, flags suspicious bills, and takes payments through SSLCommerz (bKash, Nagad, cards).</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
