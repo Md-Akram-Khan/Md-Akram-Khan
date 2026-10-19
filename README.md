@@ -76,7 +76,6 @@ Always learning, creating and striving to turn ideas into reality.
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/FlatLaf-2675BF?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/SSLCommerz-0C4DA2?style=flat-square&logoColor=white" />
-
     </td>
   </tr>  
   <tr>
