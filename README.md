@@ -90,18 +90,57 @@ Always learning, creating and striving to turn ideas into reality.
           <li>Secures accounts with JWT authentication and bcrypt hashing, and runs in in-memory demo mode without API keys or MongoDB.</li>
         </ul>
       </p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+          <img src="https://img.shields.io/badge/React%20Router%20v7-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Heroicons-8B5CF6?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Motor-47A248?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+          <img src="https://img.shields.io/badge/pdfplumber-D32F2F?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/python--pptx-B7472A?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+          <img src="https://img.shields.io/badge/bcrypt-338033?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+          <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/Md-Akram-Khan/StockHub">StockHub</a> · <a href="https://stock-hub-eight.vercel.app/">live</a></h3>
-      <p>Warehouse management system (team project) with role-based access for customers, employees and admins, branch capacity tracking, and Docker + Nginx deployment.</p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <p>
+       <ul>
+          <li>Lets customers apply for warehouse storage space, track their stored inventory and explore real-time cubic capacity across branches.</li>
+          <li>Gives employees a workspace to approve or reject storage applications, manage duty assignments and audit stock levels.</li>
+          <li>Provides admins with full inventory CRUD, bulk imports, branch provisioning and user and role administration with audit logs.</li>
+          <li>Prevents lost updates in concurrent operations through optimistic locking and Unit of Work transactions.</li>
+          <li>Secures access with dual-token JWT authentication, bcrypt hashing and role-based access control across three user roles.</li>
+        </ul>
+       </p>
+        <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%20Router%20v7-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pydantic%20v2-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/bcrypt-338033?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
     </td>
   </tr>
   <tr>
