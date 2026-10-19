@@ -130,6 +130,7 @@ Always learning, creating and striving to turn ideas into reality.
       <h3>💊 <a href="https://github.com/Md-Akram-Khan/DrugScript">DrugScript</a></h3>
       <p>
         <ul>
+        <li>Signs users in securely with Google through Firebase Authentication and manages editable profiles with public profile viewing.</li>
         <li>Lets patients and doctors create digital prescriptions with diagnosis, medicines and optional images.</li>
         <li>Shares prescriptions instantly by QR code, with full history of sent and received prescriptions.</li>
         <li>Provides medicine search with detailed information, plus medication reminders through local notifications.</li>
