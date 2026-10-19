@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://md-akram-khan.github.io"><img src="https://img.shields.io/badge/Portfolio-C1121F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/md-akram-khan-534363291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Md-Akram-Khan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=Md-Akram-Khan&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
