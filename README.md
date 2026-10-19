@@ -10,6 +10,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Md-Akram-Khan.Md-Akram-Khan&left_text=Profile%20views&left_color=%23555555&right_color=%230ea5e9" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://md-akram-khan.github.io"><img src="assets/death-note-banner.svg" alt="A black notebook. The name Md. Akram Khan writes itself on its page, beside a red apple and glowing red eyes." width="100%" /></a>
+</p>
+
 ---
 
 ## 👋 About me
