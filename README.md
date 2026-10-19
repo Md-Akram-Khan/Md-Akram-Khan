@@ -81,10 +81,20 @@ Always learning, creating and striving to turn ideas into reality.
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/Md-Akram-Khan/Cognify-AI-Powered-Learning-Platform">Cognify</a> · <a href="https://cognify-ai-powered-learning-platfor.vercel.app">live</a></h3>
-      <p>AI learning platform (team project) with an AI tutor, quizzes in several languages, and summaries generated from uploaded PDFs and slides. Uses Groq with Gemini as a fallback.</p>
+      <p>
+        <ul>
+          <li>Delivers context-aware AI tutoring through Groq's Llama 3.3, with automatic failover to Google Gemini and an offline mock provider.</li>
+          <li>Generates adaptive multiple-choice and writen exams on any topic.</li>
+          <li>Extracts text from uploaded PDF notes and PPTX slide decks to produce instant study summaries and quizzes.</li>
+          <li>Tracks learner progress with real-time performance analytics, accuracy charts and a dedicated study notes workspace.</li>
+          <li>Secures accounts with JWT authentication and bcrypt hashing, and runs in in-memory demo mode without API keys or MongoDB.</li>
+        </ul>
+      </p>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/Md-Akram-Khan/StockHub">StockHub</a> · <a href="https://stock-hub-eight.vercel.app/">live</a></h3>
