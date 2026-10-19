@@ -44,23 +44,6 @@ Always learning, creating and striving to turn ideas into reality.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚑 <a href="https://github.com/Md-Akram-Khan/chattogram-emergency-routing-simulator">Chattogram Emergency Routing</a></h3>
-      <p>
-        <ul>
-          <li>Simulates emergency vehicle routing across Chattogram using 45 city nodes and 60+ road connections.</li>
-          <li>Implements six search algorithms: BFS, DFS, UCS, IDS, A* and Greedy Best-First Search.</li>
-          <li>Models dynamic traffic congestion, tidal flooding, road conditions and night-safety risks.</li>
-          <li>Features interactive Google Maps visualization and real-time route cost updates.</li>
-          <li>Provides performance comparison charts and CSV report export.</li>
-        </ul>
-     </p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Md-Akram-Khan/OOP-project">Electricity Billing System</a></h3>
       <p>
         <ul>
@@ -71,14 +54,21 @@ Always learning, creating and striving to turn ideas into reality.
           <li>Provides consumption forecasts, bill explanations, reports, audit logs and role-based access control.</li>
         </ul>
      </p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/FlatLaf-2675BF?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/SSLCommerz-0C4DA2?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/FlatLaf-2675BF?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gson-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/SSLCommerz-0C4DA2?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=apacheant&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logoColor=white" />
     </td>
-  </tr>  
-  <tr>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/Md-Akram-Khan/Cognify-AI-Powered-Learning-Platform">Cognify</a> · <a href="https://cognify-ai-powered-learning-platfor.vercel.app">live</a></h3>
       <p>
@@ -112,6 +102,8 @@ Always learning, creating and striving to turn ideas into reality.
           <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
+  </tr>  
+  <tr> 
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/Md-Akram-Khan/StockHub">StockHub</a> · <a href="https://stock-hub-eight.vercel.app/">live</a></h3>
       <p>
@@ -142,6 +134,12 @@ Always learning, creating and striving to turn ideas into reality.
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
     </td>
+    <td width="50%" valign="top">
+      <h3>💊 <a href="https://github.com/Md-Akram-Khan/DrugScript">DrugScript</a></h3>
+      <p>Cross-platform Flutter mobile app built with a team of four.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -151,11 +149,22 @@ Always learning, creating and striving to turn ideas into reality.
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     </td>
-    <td width="50%" valign="top">
-      <h3>💊 <a href="https://github.com/Md-Akram-Khan/DrugScript">DrugScript</a></h3>
-      <p>Cross-platform Flutter mobile app built with a team of four.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+     <td width="50%" valign="top">
+      <h3>🚑 <a href="https://github.com/Md-Akram-Khan/chattogram-emergency-routing-simulator">Chattogram Emergency Routing</a></h3>
+      <p>
+        <ul>
+          <li>Simulates emergency vehicle routing across Chattogram using 45 city nodes and 60+ road connections.</li>
+          <li>Implements six search algorithms: BFS, DFS, UCS, IDS, A* and Greedy Best-First Search.</li>
+          <li>Models dynamic traffic congestion, tidal flooding, road conditions and night-safety risks.</li>
+          <li>Features interactive Google Maps visualization and real-time route cost updates.</li>
+          <li>Provides performance comparison charts and CSV report export.</li>
+        </ul>
+     </p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
     </td>
   </tr>
 </table>
