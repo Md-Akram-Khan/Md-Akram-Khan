@@ -82,23 +82,17 @@ Always learning, creating and striving to turn ideas into reality.
           <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
           <img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-          <img src="https://img.shields.io/badge/React%20Router%20v7-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
           <img src="https://img.shields.io/badge/Heroicons-8B5CF6?style=flat-square&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logoColor=white" />
           <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Motor-47A248?style=flat-square&logoColor=white" />
           <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
           <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
           <img src="https://img.shields.io/badge/pdfplumber-D32F2F?style=flat-square&logoColor=white" />
           <img src="https://img.shields.io/badge/python--pptx-B7472A?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-          <img src="https://img.shields.io/badge/bcrypt-338033?style=flat-square&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
           <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-          <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
   </tr>  
