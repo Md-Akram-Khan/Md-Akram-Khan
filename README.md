@@ -77,7 +77,6 @@ Always learning, creating and striving to turn ideas into reality.
           <li>Generates adaptive multiple-choice and writen exams on any topic.</li>
           <li>Extracts text from uploaded PDF notes and PPTX slide decks to produce instant study summaries and quizzes.</li>
           <li>Tracks learner progress with real-time performance analytics, accuracy charts and a dedicated study notes workspace.</li>
-          <li>Secures accounts with JWT authentication and bcrypt hashing, and runs in in-memory demo mode without API keys or MongoDB.</li>
         </ul>
       </p>
           <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -132,7 +131,6 @@ Always learning, creating and striving to turn ideas into reality.
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
         <img src="https://img.shields.io/badge/bcrypt-338033?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>💊 <a href="https://github.com/Md-Akram-Khan/DrugScript">DrugScript</a></h3>
