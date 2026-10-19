@@ -45,7 +45,15 @@ Always learning, creating and striving to turn ideas into reality.
   <tr>
     <td width="50%" valign="top">
       <h3>🚑 <a href="https://github.com/Md-Akram-Khan/chattogram-emergency-routing-simulator">Chattogram Emergency Routing</a></h3>
-      <p>Emergency-vehicle dispatch simulator for Chattogram with 45 city nodes. Compares BFS, DFS, UCS, IDS, A* and Greedy search under tidal flooding, port-lorry traffic and night-safety costs.</p>
+      <p>
+        <ul>
+          <li>Simulates emergency vehicle routing across Chattogram using 45 city nodes and 60+ road connections.</li>
+          <li>Implements six search algorithms: BFS, DFS, UCS, IDS, A* and Greedy Best-First Search.</li>
+          <li>Models dynamic traffic congestion, tidal flooding, road conditions and night-safety risks.</li>
+          <li>Features interactive Google Maps visualization and real-time route cost updates.</li>
+          <li>Provides performance comparison charts and CSV report export.</li>
+        </ul>
+     </p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
       <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
