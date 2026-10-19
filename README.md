@@ -39,7 +39,7 @@ Always learning, creating and striving to turn ideas into reality.
 
 ---
 
-## 🚀 Featured projects
+## 📝 Featured projects
 
 <table>
   <tr>
@@ -109,14 +109,6 @@ Always learning, creating and striving to turn ideas into reality.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Md-Akram-Khan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md-Akram-Khan/Md-Akram-Khan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md-Akram-Khan/Md-Akram-Khan/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Md-Akram-Khan/Md-Akram-Khan/output/github-snake.svg" />
-  </picture>
 </p>
 
 <!-- Footer -->
