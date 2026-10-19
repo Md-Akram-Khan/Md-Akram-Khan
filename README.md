@@ -100,7 +100,7 @@ Always learning, creating and striving to turn ideas into reality.
 
 ---
 
-## 📊 GitHub stats
+## ♠️ GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Md-Akram-Khan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="GitHub stats" />
