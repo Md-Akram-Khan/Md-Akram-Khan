@@ -68,12 +68,15 @@ Always learning, creating and striving to turn ideas into reality.
           <li>Extracts meter readings and verifies meter numbers directly from uploaded photos.</li>
           <li>Manages customers, meters, bills, complaints, notifications and meter applications.</li>
           <li>Integrates SSLCommerz for payments via bKash, Nagad, Rocket and bank cards.</li>
-          <li>Integrates SSLCommerz for payments via bKash, Nagad, Rocket and bank cards.</li>
+          <li>Provides consumption forecasts, bill explanations, reports, audit logs and role-based access control.</li>
         </ul>
      </p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/FlatLaf-2675BF?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/SSLCommerz-0C4DA2?style=flat-square&logoColor=white" />
+
     </td>
   </tr>  
   <tr>
