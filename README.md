@@ -7,7 +7,7 @@
   <a href="https://md-akram-khan.github.io"><img src="https://img.shields.io/badge/Portfolio-C1121F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/md-akram-khan-534363291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Md-Akram-Khan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Md-Akram-Khan.Md-Akram-Khan&left_text=PROFILE%20VIEWS&left_color=%23555555&right_color=%230ea5e9" alt="Profile views" height="28" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Md-Akram-Khan.Md-Akram-Khan&left_text=PROFILE%20VIEWS&left_color=%23555555&right_color=%230ea5e9" alt="Profile views" width="166" />
 </p>
 
 ---
