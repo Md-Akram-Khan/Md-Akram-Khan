@@ -15,8 +15,8 @@
 ## 👋 About me
 
 Always learning, creating and striving to turn ideas into reality.
-- 🔭 Currently building **AI/ML projects** and full-stack web apps
-- 🤝 Open to **collaborating** on open-source, AI and web projects
+- 🔷 Currently building **AI/ML projects** and full-stack web apps
+- 🔷 Open to **collaborating** on open-source, AI and web projects
 
 ---
 
