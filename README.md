@@ -14,12 +14,9 @@
 
 ## 👋 About me
 
-I'm a Computer Science student from **Dhaka, Bangladesh** who likes building software for problems I can see around me: routing ambulances through Chattogram's monsoon floods, billing electricity by Bangladeshi tariff rules, and helping students study with AI.
-
+Always learning, creating and striving to turn ideas into reality.
 - 🔭 Currently building **AI/ML projects** and full-stack web apps
-- 🧠 Practising **DSA and competitive programming** in C++ (graph theory, number theory, CSES)
 - 🤝 Open to **collaborating** on open-source, AI and web projects
-- 💬 Ask me about **React, FastAPI, Python, C++ and graph search algorithms**
 
 ---
 
