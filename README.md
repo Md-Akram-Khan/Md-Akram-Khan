@@ -162,8 +162,13 @@ Always learning, creating and striving to turn ideas into reality.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐱 <a href="https://github.com/Md-Akram-Khan/Hello-ML">CatVision</a> · <a href="https://md-akram-khan.github.io/Hello-ML/">live</a></h3>
+      <h3>🐱 <a href="https://github.com/Md-Akram-Khan/Hello-ML"> CatVision V.1.1</a> · <a href="https://md-akram-khan.github.io/Hello-ML/">live</a></h3>
       <p>Cat vs non-cat image classifier with logistic regression written from scratch in NumPy, served by a Flask API with a React frontend.</p>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <h3>🐱 <a href="https://github.com/Md-Akram-Khan/Hello-ML"> CatVision V.2.1</a> · <a href="https://md-akram-khan.github.io/Hello-ML/">live</a></h3>
+      <p>Cat vs non-cat image classifier with deep neural network written from scratch in NumPy, served by a Flask API with a React frontend.</p>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
