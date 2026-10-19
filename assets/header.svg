@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="180" viewBox="0 0 854 180" role="img" aria-label="Md. Akram Khan">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 44px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #fff; }
+      .d { font: 400 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #e2edf2; letter-spacing: .5px; }
+      .f { opacity: 0; animation: fade 1.2s ease-out forwards; }
+      .f2 { animation-delay: .35s; }
+      @keyframes fade { to { opacity: 1; } }
+    </style>
+  </defs>
+  <path fill="url(#g)" d="M0 0h854v142c-60 18-130 30-214 18-110-16-170-52-280-46-90 5-150 40-230 44C76 162 30 154 0 146z"/>
+  <path fill="url(#g)" opacity=".45" d="M0 150c80 14 150 6 240-14 110-24 180-18 270 6 100 26 200 30 344 4v34H0z"/>
+  <text class="t f" x="427" y="72" text-anchor="middle">Md. Akram Khan</text>
+  <text class="d f f2" x="427" y="108" text-anchor="middle">CS student · Full-stack &amp; AI/ML builder · Dhaka, Bangladesh</text>
+</svg>
