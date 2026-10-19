@@ -62,12 +62,20 @@ Always learning, creating and striving to turn ideas into reality.
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Md-Akram-Khan/OOP-project">Electricity Billing System</a></h3>
-      <p>Java Swing desktop app that follows the BERC slab tariff, reads meter photos to create bills, flags suspicious bills, and takes payments through SSLCommerz (bKash, Nagad, cards).</p>
+      <p>
+        <ul>
+          <li>Calculates bills using Bangladesh's BERC slab tariffs, VAT, demand charges and late fees.</li>
+          <li>Extracts meter readings and verifies meter numbers directly from uploaded photos.</li>
+          <li>Manages customers, meters, bills, complaints, notifications and meter applications.</li>
+          <li>Integrates SSLCommerz for payments via bKash, Nagad, Rocket and bank cards.</li>
+          <li>Integrates SSLCommerz for payments via bKash, Nagad, Rocket and bank cards.</li>
+        </ul>
+     </p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
-  </tr>
+  </tr>  
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/Md-Akram-Khan/Cognify-AI-Powered-Learning-Platform">Cognify</a> · <a href="https://cognify-ai-powered-learning-platfor.vercel.app">live</a></h3>
