@@ -4,12 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%2B+FastAPI;Exploring+machine+learning+from+first+principles;Solving+problems+in+C%2B%2B+(graphs%2C+number+theory);Turning+real+local+problems+into+software" alt="Typing intro" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://md-akram-khan.github.io"><img src="https://img.shields.io/badge/Portfolio-C1121F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/md-akram-khan-534363291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Md-Akram-Khan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
