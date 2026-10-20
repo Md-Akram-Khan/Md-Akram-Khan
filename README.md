@@ -41,6 +41,14 @@ Always learning, creating and striving to turn ideas into reality.
   <img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,postgres,supabase,docker,git,vercel&theme=dark" alt="Backend, data and tools" />
 </p>
 
+<h3 align="center">💻 Coding Platforms</h3>
+<p align="center">
+  <a href="https://codeforces.com/profile/Thank_you"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/Thank_you/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="https://vjudge.net/user/Thank_youu"><img src="https://img.shields.io/badge/Virtual_Judge-B89B5E?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTggNiAyIDEybDYgNk0xNiA2bDYgNi02IDZNMTQgNGwtNCAxNiIvPjwvc3ZnPg==" alt="Virtual Judge" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/thankyou05"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+</p>
+
 ---
 
 ## 📝 Featured projects
