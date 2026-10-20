@@ -223,6 +223,15 @@ Always learning, creating and striving to turn ideas into reality.
   <img src="https://streak-stats.demolab.com?user=Md-Akram-Khan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 </p>
 
+<h3 align="center">🍎 The Apple's Toll</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md-Akram-Khan/Md-Akram-Khan/output/apple-toll-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md-Akram-Khan/Md-Akram-Khan/output/apple-toll-light.svg" />
+    <img alt="Contribution map: an apple rolls across the year and every day with contributions is stained blood red" src="https://raw.githubusercontent.com/Md-Akram-Khan/Md-Akram-Khan/output/apple-toll-dark.svg" width="100%" />
+  </picture>
+</p>
+
 <!-- Footer -->
 <p align="center">
   <img src="assets/footer.svg" alt="" width="100%" />
