@@ -14,17 +14,19 @@
   <a href="https://md-akram-khan.github.io/My-Portfolio/"><img src="assets/death-note-banner.svg" alt="A black notebook. The name Md. Akram Khan writes itself on its page, beside a red apple and glowing red eyes." width="100%" /></a>
 </p>
 
----
 
-## 👋 About me
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<p><img src="assets/h-about.svg" alt="About me" width="100%" /></p>
 
 Always learning, creating and striving to turn ideas into reality.
 - 🔷 Currently building **AI/ML projects** and full-stack web apps
 - 🔷 Open to **collaborating** on open-source, AI and web projects
 
----
 
-## 🛠️ Tech stack
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<p><img src="assets/h-stack.svg" alt="Tech stack" width="100%" /></p>
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -51,9 +53,10 @@ Always learning, creating and striving to turn ideas into reality.
   <a href="https://www.geeksforgeeks.org/profile/thankyou05"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
----
 
-## 📝 Featured projects
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<p><img src="assets/h-projects.svg" alt="Featured projects" width="100%" /></p>
 
 <table>
   <tr>
@@ -210,17 +213,18 @@ Always learning, creating and striving to turn ideas into reality.
   <a href="https://github.com/Md-Akram-Khan/CSES-problems">CSES</a>
 </p>
 
----
 
-## ♠️ GitHub stats
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<p><img src="assets/h-stats.svg" alt="GitHub stats" width="100%" /></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Md-Akram-Khan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Akram-Khan&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Md-Akram-Khan&show_icons=true&count_private=true&border_radius=6&hide_border=false&border_color=5c0a10&bg_color=050505&title_color=ef3b47&text_color=e8e2d0&icon_color=c1121f" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Akram-Khan&layout=compact&langs_count=8&border_radius=6&hide_border=false&border_color=5c0a10&bg_color=050505&title_color=ef3b47&text_color=e8e2d0&icon_color=c1121f" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Md-Akram-Khan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Md-Akram-Khan&background=050505&border=5c0a10&stroke=5c0a10&ring=c1121f&fire=ff2a3a&currStreakNum=e8e2d0&sideNums=e8e2d0&currStreakLabel=ef3b47&sideLabels=a9a294&dates=8a847b&border_radius=6" alt="GitHub streak" />
 </p>
 
 <h3 align="center">🍎 The Apple's Toll</h3>
