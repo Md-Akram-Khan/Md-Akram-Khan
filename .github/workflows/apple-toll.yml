@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - scripts/apple-toll.mjs
+      - scripts/dossier-card.mjs
       - .github/workflows/apple-toll.yml
 
 permissions:
@@ -26,6 +27,11 @@ jobs:
 
       - name: Draw the map from this year's contributions
         run: node scripts/apple-toll.mjs ${{ github.repository_owner }} dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Draw the profile dossier card
+        run: node scripts/dossier-card.mjs ${{ github.repository_owner }} dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

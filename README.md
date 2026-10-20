@@ -219,6 +219,10 @@ Always learning, creating and striving to turn ideas into reality.
 <p><img src="assets/h-stats.svg" alt="GitHub stats" width="100%" /></p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Md-Akram-Khan/Md-Akram-Khan/output/dossier.svg" alt="Profile summary: contributions, public repos, years on GitHub, location and a chart of contributions per month" width="100%" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Md-Akram-Khan&show_icons=true&count_private=true&border_radius=6&hide_border=false&border_color=5c0a10&bg_color=050505&title_color=ef3b47&text_color=e8e2d0&icon_color=c1121f" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Akram-Khan&layout=compact&langs_count=8&border_radius=6&hide_border=false&border_color=5c0a10&bg_color=050505&title_color=ef3b47&text_color=e8e2d0&icon_color=c1121f" alt="Top languages" />
 </p>
