@@ -22,9 +22,7 @@
 
 <p><img src="assets/h-about.svg" alt="About me" width="100%" /></p>
 
-Always learning, creating and striving to turn ideas into reality.
-- 🔷 Currently building **AI/ML projects** and full-stack web apps
-- 🔷 Open to **collaborating** on open-source, AI and web projects
+CS Student @ University of Dhaka | Curious Mind, Problem Solver & Builder | Exploring Software Engineering, Cybersecurity and AI | Turning Ideas into Code | Always Learning, Always Building
 
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
