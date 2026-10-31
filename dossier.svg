@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-label="Md-Akram-Khan (Md. Akram Khan): 398 contributions on GitHub, 16 public repositories, joined 5 years ago, Dhaka. 200 contributions in the last year.">
+<defs>
+  <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ff2a3a" stop-opacity=".85"/>
+    <stop offset=".6" stop-color="#b3121b" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#5c0a10" stop-opacity=".15"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="20%" cy="0%" r="80%">
+    <stop offset="0" stop-color="#5c0a10" stop-opacity=".45"/>
+    <stop offset="1" stop-color="#5c0a10" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="reveal"><rect x="360" y="0" width="0" height="230"><animate attributeName="width" from="0" to="350" dur="1.6s" fill="freeze" calcMode="spline" keySplines=".22 1 .36 1" keyTimes="0;1"/></rect></clipPath>
+</defs>
+<style>
+  .ttl{font:600 21px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#ef3b47}
+  .row{font:400 15px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e8e2d0}
+  .ic{fill:#c1121f}
+  .tk{font:400 10px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#a9a294}
+  .cap{font:400 10.5px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#ef3b47;letter-spacing:.3px}
+  .ax{stroke:#a9a294;stroke-width:1}
+  .grid{stroke:#e8e2d0;stroke-opacity:.07}
+  .base{stroke:#a9a294;stroke-width:1}
+  @media (prefers-reduced-motion:reduce){animate{display:none}}
+</style>
+<rect x=".5" y=".5" width="759" height="229" rx="6" fill="#050505" stroke="#5c0a10"/>
+<rect x=".5" y=".5" width="759" height="229" rx="6" fill="url(#glow)"/>
+<text x="26" y="42" class="ttl">Md-Akram-Khan (Md. Akram Khan)</text>
+<g transform="translate(26 84)"><path d="M8 .2a8 8 0 0 0-2.5 15.6c.4 0 .5-.2.5-.4v-1.4c-2.2.5-2.7-1-2.7-1-.4-.9-.9-1.2-.9-1.2-.7-.5.1-.5.1-.5.8.1 1.2.8 1.2.8.7 1.3 1.9.9 2.4.7 0-.5.3-.9.5-1.1-1.8-.2-3.6-.9-3.6-4 0-.9.3-1.6.8-2.1-.1-.2-.4-1 .1-2.1 0 0 .7-.2 2.2.8a7.6 7.6 0 0 1 4 0c1.5-1 2.2-.8 2.2-.8.4 1.1.2 1.9.1 2.1.5.6.8 1.3.8 2.1 0 3.1-1.9 3.8-3.7 4 .3.3.6.8.6 1.5v2.2c0 .2.1.5.6.4A8 8 0 0 0 8 .2Z" class="ic" transform="translate(0 -12)"/><text x="26" y="0" class="row">398 Contributions on GitHub</text></g><g transform="translate(26 118)"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.8a.7.7 0 0 1 .7.7v12.6a.7.7 0 0 1-.7.7h-2.5a.7.7 0 0 1 0-1.5h1.7v-2H4.5a1 1 0 0 0-.8 1.7.7.7 0 1 1-1.1 1A2.5 2.5 0 0 1 2 11.5v-9Zm10.5-1h-8a1 1 0 0 0-1 1v6.7a2.5 2.5 0 0 1 1-.2h8V1.5ZM5 12.3v3.5a.3.3 0 0 0 .4.2l1.4-1a.3.3 0 0 1 .3 0l1.4 1a.3.3 0 0 0 .5-.2v-3.5a.3.3 0 0 0-.3-.3H5.3a.3.3 0 0 0-.3.3Z" class="ic" transform="translate(0 -12)"/><text x="26" y="0" class="row">16 Public Repos</text></g><g transform="translate(26 152)"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.3v2.9l1.8 1.8a.8.8 0 0 1-1 1L7.2 8.5a.8.8 0 0 1-.2-.5V4.8a.8.8 0 0 1 1.5 0Z" class="ic" transform="translate(0 -12)"/><text x="26" y="0" class="row">Joined GitHub 5 years ago</text></g><g transform="translate(26 186)"><path d="m12.6 11.4-3.5 3.6a1.6 1.6 0 0 1-2.2 0L3.4 11.4a6.4 6.4 0 1 1 9.2 0ZM8 1.5a4.9 4.9 0 0 0-3.5 8.4L8 13.5l3.5-3.6A4.9 4.9 0 0 0 8 1.5ZM8 5a1.8 1.8 0 1 1 0 3.5A1.8 1.8 0 0 1 8 5Z" class="ic" transform="translate(0 -12)"/><text x="26" y="0" class="row">Dhaka</text></g>
+<text x="708" y="38" class="cap" text-anchor="end">contributions in the last year · 200</text>
+<line x1="360" x2="708" y1="151" y2="151" class="grid"/><line x1="360" x2="708" y1="118" y2="118" class="grid"/><line x1="360" x2="708" y1="85" y2="85" class="grid"/><line x1="360" x2="708" y1="52" y2="52" class="grid"/>
+<g clip-path="url(#reveal)">
+  <path d="M360 183C364.8 180.2 379.3 167.2 389 166C398.7 164.8 408.3 173 418 176C427.7 179 437.3 182.7 447 184C456.7 184 466.3 184 476 184C485.7 184 495.3 184 505 184C514.7 184 524.3 184 534 184C543.7 184 553.3 184 563 184C572.7 183.2 582.3 179 592 179C601.7 179 611.3 183.2 621 184C630.7 184 640.3 184 650 184C659.7 177.5 669.3 166.5 679 145C688.7 123.5 703.2 70 708 55L708 184L360 184Z" fill="url(#fill)"/>
+  <path d="M360 183C364.8 180.2 379.3 167.2 389 166C398.7 164.8 408.3 173 418 176C427.7 179 437.3 182.7 447 184C456.7 184 466.3 184 476 184C485.7 184 495.3 184 505 184C514.7 184 524.3 184 534 184C543.7 184 553.3 184 563 184C572.7 183.2 582.3 179 592 179C601.7 179 611.3 183.2 621 184C630.7 184 640.3 184 650 184C659.7 177.5 669.3 166.5 679 145C688.7 123.5 703.2 70 708 55" fill="none" stroke="#ff2a3a" stroke-width="1.6"/>
+</g>
+<line x1="360" x2="708" y1="184" y2="184" class="base"/>
+<line x1="708" x2="708" y1="48" y2="184" class="ax"/>
+<line x1="708" x2="712" y1="184" y2="184" class="ax"/><text x="716" y="187.5" class="tk">0</text><line x1="708" x2="712" y1="151" y2="151" class="ax"/><text x="716" y="154.5" class="tk">33</text><line x1="708" x2="712" y1="118" y2="118" class="ax"/><text x="716" y="121.5" class="tk">66</text><line x1="708" x2="712" y1="85" y2="85" class="ax"/><text x="716" y="88.5" class="tk">99</text><line x1="708" x2="712" y1="52" y2="52" class="ax"/><text x="716" y="55.5" class="tk">132</text>
+<text x="360" y="200" class="tk" text-anchor="middle">25/10</text><text x="418" y="200" class="tk" text-anchor="middle">25/12</text><text x="476" y="200" class="tk" text-anchor="middle">26/02</text><text x="534" y="200" class="tk" text-anchor="middle">26/04</text><text x="592" y="200" class="tk" text-anchor="middle">26/06</text><text x="650" y="200" class="tk" text-anchor="middle">26/08</text><text x="708" y="200" class="tk" text-anchor="middle">26/10</text>
+</svg>
